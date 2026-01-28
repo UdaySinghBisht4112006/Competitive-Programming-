@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0013-roman-to-integer) |
+| [2396-strictly-palindromic-number](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
