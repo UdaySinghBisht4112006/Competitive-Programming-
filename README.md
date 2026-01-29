@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0217-contains-duplicate) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0242-valid-anagram) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Linked List
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
