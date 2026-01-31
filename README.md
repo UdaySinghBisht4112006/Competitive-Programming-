@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0217-contains-duplicate) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3453-separate-squares-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3453-separate-squares-i) |
@@ -80,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3453-separate-squares-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
