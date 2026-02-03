@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3453-separate-squares-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3453-separate-squares-i) |
+| [3637-trionic-array-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
