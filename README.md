@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0242-valid-anagram) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3640-trionic-array-ii) |
 ## Binary Search
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
