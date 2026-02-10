@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0242-valid-anagram) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0110-balanced-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
