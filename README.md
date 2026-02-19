@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0242-valid-anagram) |
+| [0696-count-binary-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0696-count-binary-substrings) |
 | [2396-strictly-palindromic-number](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
