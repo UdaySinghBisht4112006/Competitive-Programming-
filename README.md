@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0217-contains-duplicate) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3713-longest-balanced-substring-i) |
 ## Graph Theory
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
