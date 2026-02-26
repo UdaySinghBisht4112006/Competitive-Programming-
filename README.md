@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -178,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3379-transformed-array) |
 ## Backtracking
 |  |
