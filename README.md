@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0002-add-two-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Trie
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3379-transformed-array) |
 ## Backtracking
