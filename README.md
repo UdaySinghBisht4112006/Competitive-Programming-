@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2069-walking-robot-simulation-ii) |
 | [3379-transformed-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3379-transformed-array) |
 ## Backtracking
 |  |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
