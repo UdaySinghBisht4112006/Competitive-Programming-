@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3640-trionic-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2069-walking-robot-simulation-ii) |
 | [3379-transformed-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
