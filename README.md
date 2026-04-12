@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0761-special-binary-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0799-champagne-tower) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
