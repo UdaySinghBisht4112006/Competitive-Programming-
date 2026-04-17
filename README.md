@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2396-strictly-palindromic-number) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
 | ------- |
