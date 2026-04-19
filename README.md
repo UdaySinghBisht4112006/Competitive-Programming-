@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1980-find-unique-binary-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0696-count-binary-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2396-strictly-palindromic-number](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3453-separate-squares-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3453-separate-squares-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
