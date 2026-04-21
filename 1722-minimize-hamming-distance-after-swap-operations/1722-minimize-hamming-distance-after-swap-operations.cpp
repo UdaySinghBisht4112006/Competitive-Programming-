@@ -20,7 +20,7 @@ public:
             unite(swap[0], swap[1]);
         }
 
-        // Group source values by their component root
+        
         unordered_map<int, unordered_map<int, int>> groups;
         for (int i = 0; i < n; i++) {
             groups[find(i)][source[i]]++;
@@ -31,9 +31,9 @@ public:
             int root = find(i);
             auto& freq = groups[root];
             if (freq.count(target[i]) && freq[target[i]] > 0) {
-                freq[target[i]]--;  // matched, consume this source value
+                freq[target[i]]--; 
             } else {
-                hammingDist++;      // no match found in this component
+                hammingDist++;     
             }
         }
 
