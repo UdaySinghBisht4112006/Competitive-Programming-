@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1980-find-unique-binary-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Two Pointers
 |  |
