@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2615-sum-of-distances) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2615-sum-of-distances) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3714-longest-balanced-substring-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3714-longest-balanced-substring-ii) |
