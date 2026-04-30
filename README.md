@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3640-trionic-array-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
