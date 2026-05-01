@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0217-contains-duplicate) |
+| [0396-rotate-function](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0396-rotate-function) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
