@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2396-strictly-palindromic-number](https://github.com/UdaySinghBisht4112006/Competitive-Programming-/tree/master/2396-strictly-palindromic-number) |
